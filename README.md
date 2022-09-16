@@ -4,6 +4,9 @@ LED light strips are installed at the back of the monitor.
 The colour of every single LED shows different colour according to the colour change on the screen.
 The light strips extremely enhance the experience of watching movie. 
 
+***This project does not require an external graphic capture card. 
+All you need are a RPi, Mac, LED light strip and WiFi connection.
+Some AmbiLight projects require an external capture card which cost a lot.***
 
 
 In this project, the code will be slpitted into two parts.
