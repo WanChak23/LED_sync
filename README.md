@@ -12,3 +12,6 @@ Some AmbiLight projects require an external capture card which cost a lot.***
 In this project, the code will be slpitted into two parts.
 The first part captures the screen of Mac, progresses the data and send to the RaspberryPi through WiFi by TCP socket.
 The second part receives the data and sets the colour of the LED strip according to the data.
+
+
+demonstration: https://youtu.be/4vgXB93sORk
