@@ -1,6 +1,7 @@
 ![IMG_1885](https://user-images.githubusercontent.com/113722707/194917588-bfbcb9be-cc25-4b76-b497-0b55eedfa1f4.jpg)
 
-LED_sync
+***LED_sync***
+
 This is a DIY AmbiLight project with a RaspberryPi for MacOS.
 LED light strips are installed at the back of the monitor.
 The colour of every single LED shows different colour according to the colour change on the screen.
