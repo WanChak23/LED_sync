@@ -1,4 +1,5 @@
-#![IMG_1885](https://user-images.githubusercontent.com/113722707/194917588-bfbcb9be-cc25-4b76-b497-0b55eedfa1f4.jpg)
+![IMG_1885](https://user-images.githubusercontent.com/113722707/194917588-bfbcb9be-cc25-4b76-b497-0b55eedfa1f4.jpg)
+
 LED_sync
 This is a DIY AmbiLight project with a RaspberryPi for MacOS.
 LED light strips are installed at the back of the monitor.
