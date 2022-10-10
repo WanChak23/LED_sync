@@ -14,4 +14,6 @@ The first part captures the screen of Mac, progresses the data and send to the R
 The second part receives the data and sets the colour of the LED strip according to the data.
 
 
-demonstration: https://youtu.be/4vgXB93sORk
+***Demonstration*** https://youtu.be/4vgXB93sORk
+
+Finished Date: 25 August 2022
